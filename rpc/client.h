@@ -6,12 +6,12 @@
 using std::string;
 
 #include <socket/client_socket.h>
-using namespace yaci::socket;
+using namespace pter::socket;
 
 #include <serialize/data_stream.h>
-using namespace yaci::serialize;
+using namespace pter::serialize;
 
-namespace yaci {
+namespace pter {
 namespace rpc {
 
 struct MsgHead {

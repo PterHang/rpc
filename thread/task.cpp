@@ -1,7 +1,7 @@
 #include <thread/task.h>
 #include <thread/auto_lock.h>
 
-using namespace yaci::thread;
+using namespace pter::thread;
 
 Task::Task() : m_data(nullptr)
 {

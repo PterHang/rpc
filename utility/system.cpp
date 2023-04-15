@@ -1,5 +1,5 @@
 #include "system.h"
-using namespace yazi::utility;
+using namespace pter::utility;
 
 #include <unistd.h>
 #include <dirent.h>
@@ -10,7 +10,7 @@ using namespace yazi::utility;
 #include <utility/logger.h>
 #include <utility/ini_file.h>
 #include <utility/singleton.h>
-using namespace yazi::utility;
+using namespace pter::utility;
 
 
 System::System()

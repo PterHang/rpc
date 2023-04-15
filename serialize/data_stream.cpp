@@ -1,5 +1,5 @@
 #include <serialize/data_stream.h>
-using namespace yaci::serialize;
+using namespace pter::serialize;
 
 DataStream::DataStream() : m_pos(0)
 {

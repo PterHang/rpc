@@ -1,11 +1,11 @@
 #include <thread/worker_thread.h>
 #include <thread/task.h>
 #include <thread/thread_pool.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 #include <utility/logger.h>
 #include <utility/singleton.h>
-using namespace yaci::utility;
+using namespace pter::utility;
 
 WorkerThread::WorkerThread() : Thread()
 {

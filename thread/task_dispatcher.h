@@ -7,7 +7,7 @@
 #include <thread/thread_pool.h>
 #include <thread/task.h>
 
-namespace yaci {
+namespace pter {
 namespace thread {
 
 class TaskDispatcher : public Thread

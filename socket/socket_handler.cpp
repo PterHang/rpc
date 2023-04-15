@@ -1,19 +1,19 @@
 #include <socket/socket_handler.h>
 #include <socket/server_socket.h>
-using namespace yaci::socket;
+using namespace pter::socket;
 
 #include <utility/logger.h>
 #include <utility/ini_file.h>
 #include <utility/singleton.h>
-using namespace yaci::utility;
+using namespace pter::utility;
 
 #include <thread/task.h>
 #include <thread/auto_lock.h>
 #include <thread/task_dispatcher.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 #include <task/task_factory.h>
-using namespace yaci::task;
+using namespace pter::task;
 
 SocketHandler::SocketHandler()
 {

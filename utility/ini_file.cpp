@@ -8,7 +8,7 @@ using std::ofstream;
 
 #include <algorithm>
 #include <utility/ini_file.h>
-using namespace yazi::utility;
+using namespace pter::utility;
 
 IniFile::IniFile()
 {

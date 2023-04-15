@@ -21,7 +21,7 @@ using std::stringstream;
 
 #include <serialize/serializable.h>
 
-namespace yaci {
+namespace pter {
 namespace serialize {
 
 class DataStream

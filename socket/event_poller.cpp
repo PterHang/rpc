@@ -1,5 +1,5 @@
 #include <socket/event_poller.h>
-using namespace yaci::socket;
+using namespace pter::socket;
 
 EventPoller::EventPoller(bool et) : m_epfd(0), m_max_connections(0), m_events(NULL), m_et(et)
 {

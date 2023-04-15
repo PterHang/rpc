@@ -1,6 +1,6 @@
 #include <thread/condition.h>
 
-using namespace yaci::thread;
+using namespace pter::thread;
 
 Condition::Condition()
 {

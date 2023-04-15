@@ -10,7 +10,7 @@
 #include <string>
 using std::string;
 
-namespace yaci {
+namespace pter {
 namespace socket {
 
 class Socket

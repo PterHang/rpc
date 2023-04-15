@@ -8,13 +8,13 @@ using std::string;
 #include <socket/event_poller.h>
 
 #include <utility/object_pool.h>
-using namespace yaci::utility;
+using namespace pter::utility;
 
 #include <thread/mutex.h>
 #include <thread/task.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
-namespace yaci {
+namespace pter {
 namespace socket {
 
 class SocketHandler

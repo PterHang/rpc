@@ -7,7 +7,7 @@ using std::string;
 
 #include <utility/value.h>
 
-namespace yaci {
+namespace pter {
 namespace utility {
 
 typedef std::map<string, Value> Section;

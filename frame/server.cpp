@@ -1,11 +1,11 @@
 #include <frame/server.h>
-using namespace yaci::frame;
+using namespace pter::frame;
 
 #include <thread/task_dispatcher.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 #include <socket/socket_handler.h>
-using namespace yaci::socket;
+using namespace pter::socket;
 
 Server::Server()
 {

@@ -1,5 +1,5 @@
 #include <thread/auto_lock.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 AutoLock::AutoLock(Mutex* mutex)
 {

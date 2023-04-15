@@ -1,10 +1,10 @@
 #include <rpc/client.h>
-using namespace yaci::rpc;
+using namespace pter::rpc;
 
 #include <utility/system.h>
 #include <utility/logger.h>
 #include <utility/singleton.h>
-using namespace yaci::utility;
+using namespace pter::utility;
 
 
 Client::Client()

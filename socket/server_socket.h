@@ -2,7 +2,7 @@
 
 #include <socket/socket.h>
 
-namespace yaci {
+namespace pter {
 namespace socket {
 
 class ServerSocket : public Socket

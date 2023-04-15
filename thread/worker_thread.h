@@ -5,7 +5,7 @@
 
 #include <thread/thread.h>
 
-namespace yaci {
+namespace pter {
 namespace thread {
 
 class WorkerThread : public Thread

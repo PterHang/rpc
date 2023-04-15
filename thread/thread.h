@@ -5,7 +5,7 @@
 #include <thread/condition.h>
 #include <thread/task.h>
 
-namespace yaci {
+namespace pter {
 namespace thread {
 
 class Thread

@@ -3,9 +3,9 @@
 #include <list>
 #include <thread/mutex.h>
 #include <thread/auto_lock.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
-namespace yaci {
+namespace pter {
 namespace utility {
 
 template <typename T>

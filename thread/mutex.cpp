@@ -1,5 +1,5 @@
 #include <thread/mutex.h>
-using namespace yazi::thread;
+using namespace pter::thread;
 
 Mutex::Mutex()
 {

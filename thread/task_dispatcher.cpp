@@ -1,5 +1,5 @@
 #include <thread/task_dispatcher.h>
-using namespace yazi::thread;
+using namespace pter::thread;
 
 #include <utility/logger.h>
 #include <utility/singleton.h>

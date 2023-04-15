@@ -1,12 +1,12 @@
 #pragma once
 
 #include <thread/task.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 #include <socket/socket.h>
-using namespace yaci::socket;
+using namespace pter::socket;
 
-namespace yaci {
+namespace pter {
 namespace task {
 
 struct MsgHead {

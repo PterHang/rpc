@@ -1,5 +1,5 @@
 #include <rpc/server.h>
-using namespace yaci::rpc;
+using namespace pter::rpc;
 
 Server::Server()
 {

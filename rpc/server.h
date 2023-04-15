@@ -6,10 +6,10 @@ using std::string;
 #include <frame/server.h>
 #include <rpc/function_handler.h>
 
-namespace yaci {
+namespace pter {
 namespace rpc {
 
-class Server : public yaci::frame::Server
+class Server : public pter::frame::Server
 {
     friend class Singleton<Server>;
 public:

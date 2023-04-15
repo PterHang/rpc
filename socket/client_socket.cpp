@@ -1,8 +1,8 @@
 #include <socket/client_socket.h>
-using namespace yaci::socket;
+using namespace pter::socket;
 
 #include <utility/logger.h>
-using namespace yaci::utility;
+using namespace pter::utility;
 
 #include <cerrno>
 #include <cstring>

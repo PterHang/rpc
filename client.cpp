@@ -1,6 +1,6 @@
 #include <iostream>
 #include <rpc/client.h>
-using namespace yaci::rpc;
+using namespace pter::rpc;
 
 class Request : public Serializable
 {

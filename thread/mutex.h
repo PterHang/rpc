@@ -2,7 +2,7 @@
 
 #include <pthread.h>
 
-namespace yaci {
+namespace pter {
 namespace thread {
 
 class Mutex

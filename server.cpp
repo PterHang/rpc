@@ -1,7 +1,7 @@
 #include <iostream>
 #include <algorithm>
 #include <rpc/server.h>
-using namespace yaci::rpc;
+using namespace pter::rpc;
 
 string hello(const string & name)
 {

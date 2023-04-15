@@ -1,9 +1,9 @@
 #include <thread/thread_pool.h>
 #include <thread/worker_thread.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 #include <utility/logger.h>
-using namespace yaci::utility;
+using namespace pter::utility;
 
 ThreadPool::ThreadPool() : m_threads(0)
 {

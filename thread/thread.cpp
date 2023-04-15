@@ -1,6 +1,6 @@
 #include <thread/thread.h>
 #include <thread/auto_lock.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 Thread::Thread() : m_tid(0), m_task(nullptr)
 {

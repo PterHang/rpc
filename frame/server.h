@@ -7,9 +7,9 @@ using std::string;
 #include <utility/logger.h>
 #include <utility/ini_file.h>
 #include <utility/singleton.h>
-using namespace yaci::utility;
+using namespace pter::utility;
 
-namespace yaci {
+namespace pter {
 namespace frame {
 
 class Server

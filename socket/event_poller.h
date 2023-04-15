@@ -5,7 +5,7 @@
 #include <errno.h>
 #include <cstring>
 
-namespace yaci {
+namespace pter {
 namespace socket {
 
 class EventPoller

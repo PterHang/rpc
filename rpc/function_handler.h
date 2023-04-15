@@ -7,9 +7,9 @@
 using std::string;
 
 #include <serialize/data_stream.h>
-using namespace yaci::serialize;
+using namespace pter::serialize;
 
-namespace yaci {
+namespace pter {
 namespace rpc {
 
 class FunctionHandler

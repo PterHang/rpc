@@ -3,7 +3,7 @@
 #include <pthread.h>
 #include <thread/mutex.h>
 
-namespace yaci {
+namespace pter {
 namespace thread {
 
 class Condition

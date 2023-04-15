@@ -1,15 +1,15 @@
 #pragma once
 
 #include <socket/socket.h>
-using namespace yaci::socket;
+using namespace pter::socket;
 
 #include <thread/task.h>
-using namespace yaci::thread;
+using namespace pter::thread;
 
 #include <task/work_task.h>
-using namespace yaci::task;
+using namespace pter::task;
 
-namespace yaci {
+namespace pter {
 namespace task {
 
 class TaskFactory

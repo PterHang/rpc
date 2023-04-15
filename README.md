@@ -1,5 +1,4 @@
-# yazi-rpc
-c++ rpc framework
+# c++ rpc framework
 
 
 ## example

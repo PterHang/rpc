@@ -12,7 +12,7 @@ server.cpp
 using namespace std;
 
 #include <rpc/Server.h>
-using namespace yazi::rpc;
+using namespace yaci::rpc;
 
 string hello(const string & name)
 {
@@ -89,7 +89,7 @@ client.cpp
 using namespace std;
 
 #include <rpc/Client.h>
-using namespace yazi::rpc;
+using namespace yaci::rpc;
 
 class Request : public Serializable
 {
